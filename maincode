@@ -1,0 +1,40 @@
+{	
+"origin": "#modifier# #animal#",
+
+"modifier":["Twilight", "Iron", "Panzer", "Growling", "Dizzy", 
+"Copper", "Hissing", "Jumping", "Silent", "Smiling", "Mad", 
+"Jade", "Green", "Hungry", "Onyx", "Dancing", "Pouncing", 
+"Dark", "Sinister", "Biting", "Vengeful", "Pirate", "Hulking", 
+"Bastard", "Shining", "Assassin", "Doom", "Wild", "Crying", "Steel", 
+"Poison", "Black", "Sunny", "Running", "Frantic", "Goblin", "Punching", 
+"Ashen", "Ice", "Sky", "Gray", "Crystal", "Cunning", "Razor", "Laughing", 
+"Howling", "Raging", "Ochre", "Devil", "Grizzly", "Rumble", "Night", "Blazing", 
+"Blue", "Vampire", "Midnight", "Glacier", "Brutal", "Vile", "Stubborn", 
+"Smoking", "Golden", "Death", "Rogue", "Rabid", "Bloody", "Brass", "Rampant", 
+"Titanium", "Spunky", "Striker", "Creeping", "Cannibal", "Flaming", "Frigid", 
+"Stalking", "Crimson", "Scowling", "Bullet", "Crawling", "Armored", "Killer", 
+"Prowling", "Sly", "Lonely", "Silver", "Charging", "Bitter", "Stone", "Greedy", 
+"Obsidian", "Dire", "White", "Raving", "Thunder", "Roaring", "Spitting", "Sadistic",
+"Rancid", "Seething", "Spying", "Hunting", "Fire", "Oh", "Vore", "Big", "Horny", 
+"Solid", "Liquid", "Solidus", "Venom", "Naked", "Thicc", "Top", "Bottom", "Lit", 
+"Small", "Gay", "Revolver"],
+
+"animal": ["Osprey", "Piranha", "Octopus", "Wallaby", "Ox", "Falcon", "Hyena", "Swan", 
+"Shark", "Ferret", "Wombat", "Whale", "Bull", "Buzzard", "Griffon", "Rhino", "Tigress", 
+"Stallion", "Worm", "Unicorn", "Python", "Gator", "Mole", "Sparrow", "Goat", "Cat", "Mammoth", 
+"Rooster", "Cobra", "Phoenix", "Crow", "Bear", "Boa", "Husky", "Marmot", "Roach", 
+"Zebra", "Bat", "Tiger", "Kitten", "Panther", "Echidna", "Serpent", "Lion", "Gopher", 
+"Turkey", "Bison", "Hippo", "Buffalo", "Hornet", "Wolf", "Crab", "Otter", "Spider", "Lizard", 
+"Badger", "Gibbon", "Mongoose", "Eel", "Adder", "Dingo", "Moth", "Dhole", "Hound", "Jackal", "Weevil", 
+"Moose", "Weasel", "Beetle", "Marlin", "Gazelle", "Wasp", "Leopard", "Viper", "Owl", "Boar", "Panda", 
+"Coyote", "Elk", "Mustang", "Macaw", "Jaguar", "Harrier", "Mouse", "Agama", "Slug", "Gecko", "Mastiff", "Ram", 
+"Raccoon", "Lynx", "Sloth", "Raptor", "Iguana", "Llama", "Mantis", "Sturgeon", "Koala", "Eagle", "Hawk", "Hog", 
+"Cheetah", "Heron", "Dragon", "Orca", "Vulture", "Rabbit", "Grips", "Mood", "Snake", "Ocelot", 
+"Capybara","Tree Frog"]
+}
+
+
+
+
+
+
